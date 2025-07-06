@@ -1,10 +1,10 @@
-🧠 COVID-19 Vaccination Insights – India (Python + Power BI)
+# 🧠 COVID-19 Vaccination Insights – India (Python + Power BI)
 
 This project presents a complete data-driven report on India’s COVID-19 vaccination drive using both Python and Power BI. It combines real-world data analysis, state-wise comparisons, vaccine type insights, and interactive dashboards — all structured around a cleaned, custom dataset.
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Clean and prepare state-wise COVID-19 vaccination data
 - Perform exploratory data analysis using Python
@@ -13,7 +13,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-🧪 Project Flow
+## 🧪 Project Flow
 
 1. **Data Collection**  
    - Sourced from official Indian vaccination statistics (via Kaggle)
@@ -38,7 +38,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-🔍 Project Highlights
+## 🔍 Project Highlights
 
 - End-to-end data pipeline from raw to cleaned data  
 - Python notebook to demonstrate EDA skills  
@@ -48,7 +48,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Tool                | Purpose                              |
 |---------------------|---------------------------------------|
@@ -58,7 +58,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-📂 Files Included
+## 📂 Files Included
 
 | File                                | Description                          |
 |-------------------------------------|--------------------------------------|
@@ -70,7 +70,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 📄 **Page – Vaccination Overview (Power BI)**
 ![Dashboard](covid_vaccine_dashboard.png)
@@ -82,7 +82,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-📌 Key Insights
+##📌 Key Insights
 
 - Maharashtra and Uttar Pradesh lead in total vaccinations  
 - Disparity observed between first and second doses in many states  
@@ -92,7 +92,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-📁 Dataset Source
+## 📁 Dataset Source
 
 - Government of India Open Data (via Kaggle)
 - Cleaned and filtered for analysis and reporting
