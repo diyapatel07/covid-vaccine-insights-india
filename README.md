@@ -82,7 +82,7 @@ This project presents a complete data-driven report on India’s COVID-19 vaccin
 
 ---
 
-##📌 Key Insights
+## 📌 Key Insights
 
 - Maharashtra and Uttar Pradesh lead in total vaccinations  
 - Disparity observed between first and second doses in many states  
